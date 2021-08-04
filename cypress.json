@@ -1,0 +1,8 @@
+{
+  "baseUrl": "https://www.kiwi.com",
+  "defaultCommandTimeout": 20000,
+  "requestTimeout": 15000,
+  "responseTimeout": 30000,
+  "screenshotsFolder": "./cypress/screenshots",
+  "videosFolder": "./cypress/videos"
+}
